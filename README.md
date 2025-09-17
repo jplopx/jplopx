@@ -46,13 +46,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="60" alt="html5 logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="60" alt="html5 logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="60" alt="js logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" height="60" alt="html5 logo"  />
+  <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" height="60" alt="python logo"  />
   <img width="12" />
 </div>
 
