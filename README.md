@@ -52,8 +52,6 @@
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="60" alt="js logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" height="60" alt="python logo"  />
-  <img width="12" />
 </div>
 
 ###
