@@ -2,7 +2,7 @@
 
 <p>
 Information Technology student at <strong>UNISUAM</strong> <br>
-I'm at the end of the <strong>first semester</strong>. <br>
+I'm at the end of the <strong>second semester</strong>. <br>
 ocused on learning, building, and evolving every single day <br>
 Future software developer passionate about problem-solving
 </p>
