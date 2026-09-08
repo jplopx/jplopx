@@ -11,7 +11,7 @@ Aspiring Full Stack Developer passionate about technology and problem-solving.
 
 ### About Me
 
-* Currently studying **Analysis and Systems Development** at UNISUAM
+* Currently studying **Information Technology Management** at UNISUAM
 * Working towards becoming a **Full Stack Developer**
 * Currently focused on **JavaScript**, **PHP**, and web development
 * Learning more about **programming logic, databases, and software development**
